@@ -1,1 +1,1 @@
-ghcr.io/tektoncd/github.com/tektoncd/pipeline/cmd/entrypoint:v0.57.0
+ghcr.io/tektoncd/dashboard/dashboard-9623576a202fe86c8b7d1bc489905f86:v0.57.0@sha256:b76059785ebd1e6b9efc125dcf8ddea3e202746f8fb672463dd8cce08b718fda
