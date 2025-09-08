@@ -2,9 +2,10 @@
 # gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/nop:v0.57.0@sha256:6e65d18c3ffe76da47df74bb854d4b86452f6080b981d249c5e6ca7bdc328240
 
 
---platform=linux/amd64 gcr.io/tektoncd/pipeline/cmd/nop:v0.57.0@sha256:6e65d18c3ffe76da47df74bb854d4b86452f6080b981d249c5e6ca7bdc328240
+# --platform=linux/amd64 gcr.io/tektoncd/pipeline/cmd/nop:v0.57.0@sha256:6e65d18c3ffe76da47df74bb854d4b86452f6080b981d249c5e6ca7bdc328240
 # ghcr.io/tektoncd/pipeline/nop-8eac7c133edad5df719dc37b36b62482:sha256-d951977bdf3d27cf24594865a3d1ee3f310d8a141746d6381be7094c4d8444e1.sbom
 
 # docker.io/kindest/local-path-provisioner:v20250214-acbabc1a
 
 
+docker.io/kindest/local-path-helper:v20241212-8ac705d0
